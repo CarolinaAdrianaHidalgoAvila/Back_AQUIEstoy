@@ -1,6 +1,8 @@
 ﻿using AquiEstoy_MongoDB.Exceptions;
 using AquiEstoy_MongoDB.Models;
+using AquiEstoy_MongoDB.Models.Security;
 using AquiEstoy_MongoDB.Services;
+using AquiEstoy_MongoDB.Services.Security;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,7 +21,7 @@ namespace AquiEstoy_MongoDB.Controllers
         }
 
         // /api/auth/userx  
-        [HttpPost("User")]
+        /*[HttpPost("User")]
         public async Task<IActionResult> RegisterAsync([FromBody] RegisterViewModel model)
         {
             if (ModelState.IsValid)
@@ -51,7 +53,7 @@ namespace AquiEstoy_MongoDB.Controllers
             }
 
             return BadRequest("Some properties are not valid");
-        }
+        }*/
 
     }
 }

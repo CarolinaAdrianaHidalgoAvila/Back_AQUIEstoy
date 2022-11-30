@@ -29,9 +29,9 @@ namespace AquiEstoy_MongoDB.Data.Entities
 
         [BsonElement("latitud")]
         [JsonPropertyName("latitud")]
-
+        /*
         [BsonElement("email")]
-        [JsonPropertyName("email")]
+        [JsonPropertyName("email")]*/
         public string? Email { get; set; }
 
         [BsonElement("description")]

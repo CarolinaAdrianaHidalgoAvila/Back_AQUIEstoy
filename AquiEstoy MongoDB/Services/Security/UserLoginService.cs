@@ -2,13 +2,20 @@
 using AquiEstoy_MongoDB.Data.Repository;
 using AquiEstoy_MongoDB.Exceptions;
 using AquiEstoy_MongoDB.Models;
+using AquiEstoy_MongoDB.Models.Security;
+using AquiEstoy_MongoDB.Services;
 using AutoMapper;
+using Microsoft.AspNetCore.Identity;
+using System.Security.Claims;
 
 namespace FarmaciaAPI.Services.Security
 {
-    public class UserLoginService : IUserLoginService
-    {
+    //public class UserLoginService : IUserService
+    public class UserLoginService
+    {/*
         private IConfiguration configuration;
+        private UserManager<IdentityUser> userManager;
+        private RoleManager<IdentityRole> roleManager;
 
         public UserLoginService(UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager, IConfiguration configuration)
         {
@@ -188,6 +195,6 @@ namespace FarmaciaAPI.Services.Security
                 Token = "something went wrong",
                 IsSuccess = false
             };
-        }
+        }*/
     }
 }
