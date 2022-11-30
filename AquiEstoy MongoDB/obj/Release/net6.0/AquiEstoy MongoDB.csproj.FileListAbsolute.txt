@@ -1,0 +1,7 @@
+C:\uNIVERSIDAD\CAroooo\Back_AQUIEstoy\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.csproj.AssemblyReference.cache
+C:\uNIVERSIDAD\CAroooo\Back_AQUIEstoy\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\uNIVERSIDAD\CAroooo\Back_AQUIEstoy\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.AssemblyInfoInputs.cache
+C:\uNIVERSIDAD\CAroooo\Back_AQUIEstoy\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.AssemblyInfo.cs
+C:\uNIVERSIDAD\CAroooo\Back_AQUIEstoy\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.csproj.CoreCompileInputs.cache
+C:\uNIVERSIDAD\CAroooo\Back_AQUIEstoy\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.MvcApplicationPartsAssemblyInfo.cs
+C:\uNIVERSIDAD\CAroooo\Back_AQUIEstoy\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.MvcApplicationPartsAssemblyInfo.cache
